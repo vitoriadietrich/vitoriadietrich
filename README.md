@@ -1,6 +1,6 @@
 <h1 align="center">💻 Vitória de Jesus Dietrich</h1>
 <p align="center">
-  <strong>Desenvolvedora Mobile e Web | Estudante de Engenharia da Computação | Técnica em Informática | Apaixonada por Tecnologia</strong>
+  <strong>Desenvolvedora Full Stack | Estudante de Engenharia da Computação | Técnica em Informática | Apaixonada por Tecnologia</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 ## 👩‍💻 Sobre Mim
-Sou uma desenvolvedora mobile/web e técnica em informática que ama tecnologia e inovação. Atualmente curso **Engenharia da Computação** e tenho experiência com desenvolvimento web, design digital, organização de projetos, entre outros. Também me interesso por automação, hardware, eletrônica, segurança da informação, dentre outros aspectos importantes.
+Sou desenvolvedora web e técnica em informática que ama tecnologia e inovação. Atualmente curso **Engenharia da Computação**, possuo conhecimento em desenvolvimento web, análise de dados, design digital, organização de projetos, entre outros. Também me interesso por automação, dados, IA, hardware, dentre outros aspectos importantes.
 
 ---
 
@@ -21,40 +21,42 @@ Sou uma desenvolvedora mobile/web e técnica em informática que ama tecnologia 
 
 - 💻 Engenharia da Computação – Universidade Anhembi Morumbi (EAD)
 - 🧠 Curso Técnico em Informática - Senac Lapa Tito (Presencial)
-- 🎓 Cursos extras na área de TI - (Presencial e EAD)
+- 🎓 Programação em Desenvolvimento de Sistemas - Instituto PROA (Presencial)
+- Cursos extras na área de TI - (Presencial e EAD)
 
 ---
 
-## 💼 Experiências
+## 💼 Conhecimentos
 
 - Desenvolvimento de sites com HTML, CSS, JavaScript, PHP, SQL e MYSQL
 - Criação de artes para convites, ingressos, currículos, logotipo, cartazes etc
 - Organização de dados em JSON e banco de dados SQL e MYSQL
 - P.O (Product Owner) do projeto **PoliBee** no Demoday PROA
 - Suporte e Manutenção de Computadores
-- Operação de Redes de Computadores
-- Desenvolvimento de Aplicativos Computacionais
+- Operação de Redes de Computadores, dentre outros
 
 ---
 
 ## 🛠️ Habilidades
 
-- HTML • CSS • JavaScript • PHP • SQL • MYSQL • Python • Kotlin
+- HTML • CSS • JavaScript • PHP • SQL • MYSQL • Python
 - Git & GitHub
-- Canva • VS Code • Figma • PowerPoint • Word • Android Studio • IntelliJ IDEA • XAMPP Control Panel • MongoDBCompass
+- Canva • VS Code • Figma • PowerPoint • Word • Excel • XAMPP Control Panel • Google Colab • Trello • Bootstrap • DB Designer 
 - Trabalho em equipe (P.O - Product Owner)
 - Design responsivo para mobile e web
 - Automação e eletrônica
-- Segurança da informação
+- Analisar dados, entre outros
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- [PoliBee – Conectando Apicultores e Agricultores](#)
-- [Site de Eventos e Batalhas de Rap – VersoVivo](#)
-- [Site de Vendas - Dietrich Temperos e Produtos Naturais](#)
-- [Currículo online no GitHub Pages](#)
+- [POLIBEE – Conectando Apicultores e Agricultores para Aluguel de Colmeia de Abelhas](#)
+- [VersoVivo - Site de Eventos e Batalhas de Rap](#)
+- [Dietrich - Temperos e Produtos Naturais - Site de Vendas](#)
+- [GameOn - Site de Notícias de Lançamentos de Jogos](#)
+- [Jovem Germânico - Curiosidades Sobre a Cultura Alemã](#)
+- [Currículo Online no GitHub Pages](#)
 
 ---
 

@@ -52,6 +52,7 @@ Sou desenvolvedora web e técnica em informática que ama tecnologia e inovaçã
 ## 🚀 Projetos em Destaque
 
 - [POLIBEE – Conectando Apicultores e Agricultores para Aluguel de Colmeia de Abelhas](#)
+- [Colmeia Inteligente com Arduino - Monitorar a Saúde das Abelhas em Tempo Real com Demonstração de Temperatura e Umidade](#)
 - [VersoVivo - Site de Eventos e Batalhas de Rap](#)
 - [Dietrich - Temperos e Produtos Naturais - Site de Vendas](#)
 - [GameOn - Site de Notícias de Lançamentos de Jogos](#)

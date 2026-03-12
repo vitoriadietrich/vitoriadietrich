@@ -1,6 +1,6 @@
 <h1 align="center">💻 Vitória de Jesus Dietrich</h1>
 <p align="center">
-  <strong>Desenvolvedora Full Stack | Estudante de Engenharia da Computação | Técnica em Informática | Apaixonada por Tecnologia</strong>
+  <strong>Desenvolvedora Full Stack Web | Estudante de ADS | Técnica em Informática | Analista de Produtos Digitais e Dados | UI/UX Designer</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 ## 👩‍💻 Sobre Mim
-Sou desenvolvedora web e técnica em informática que ama tecnologia e inovação. Atualmente curso **Engenharia da Computação**, possuo conhecimento em desenvolvimento web, análise de dados, design digital, organização de projetos, entre outros. Também me interesso por automação, dados, IA, hardware, dentre outros aspectos importantes.
+Sou desenvolvedora fullstack web, analisa de produtos digitais e dados e técnica em informática que ama tecnologia e inovação. Atualmente curso **Análise e Desenvolvimento de Sistemas**, possuo conhecimento em desenvolvimento web, análise de dados, design digital, produtos, organização de projetos, entre outros. Também me interesso por automação, dados, IA, hardware, dentre outros aspectos importantes.
 
 ---
 

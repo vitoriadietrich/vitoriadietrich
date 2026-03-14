@@ -46,30 +46,29 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 ## 🛠️ Habilidades & Tecnologias
 
 ### 💻 Linguagens de Programação
-HTML ██████████ 100%
-CSS █████████ 90%
-JavaScript █████████ 90%
-PHP ████████ 80%
-SQL █████████ 90%
-MySQL █████████ 90%
-Python ████████ 80%
+- HTML        — Nível: ★★★★★ 100%
+- CSS         — Nível: ★★★★☆ 90%
+- JavaScript  — Nível: ★★★★☆ 90%
+- PHP         — Nível: ★★★★☆ 80%
+- SQL         — Nível: ★★★★☆ 90%
+- MySQL       — Nível: ★★★★☆ 90%
+- Python      — Nível: ★★★★☆ 80%
 
 ### ⚙️ Ferramentas & Frameworks
-Git & GitHub █████████ 95%
-VS Code ██████████ 100%
-Figma ████████ 85%
-Bootstrap █████████ 90%
-DB Designer ███████ 70%
-Trello █████████ 90%
-Canva ████████ 80%
+- Git & GitHub — Proficiência: Expert 🟢
+- VS Code      — Proficiência: Master 🟢🟢
+- Figma        — Proficiência: Avançado 🟡
+- Bootstrap    — Proficiência: Expert 🟢
+- DB Designer  — Proficiência: Intermediário 🟡
+- Trello       — Proficiência: Avançado 🟢
+- Canva        — Proficiência: Avançado 🟡
 
 ### 🔧 Outras Competências
-Design Responsivo █████████ 90%
-UX/UI Design ████████ 85%
-Automação & Eletrônica ██████ 70%
-Análise de Dados █████████ 90%
-Gestão de Projetos (P.O) █████████ 95%
-
+- Design Responsivo — Avançado 🌐
+- UX/UI Design      — Avançado 🎨
+- Automação & Eletrônica — Intermediário ⚡
+- Análise de Dados  — Avançado 📊
+- Gestão de Projetos (P.O) — Expert 🚀
 
 ---
 
@@ -87,14 +86,18 @@ Gestão de Projetos (P.O) █████████ 95%
 
 ---
 
-## 📊 Status & Estatísticas
+## 📊 Status & Estatísticas GitHub
 
-Repositórios Públicos: ██████████ 28
-Commits Totais: █████████ 1240
-Pull Requests: ████████ 87
-Issues Criadas: ███████ 42
-Linguagens Principais: JavaScript █████████, PHP ████████, HTML █████████, CSS ████████, Python ███████
-
+- Repositórios Públicos: 28 ✅
+- Commits Totais: 1240 ⚡
+- Pull Requests: 87 🔄
+- Issues Criadas: 42 📝
+- Linguagens Mais Usadas:
+  - JavaScript — ★★★★★
+  - PHP        — ★★★★☆
+  - HTML       — ★★★★★
+  - CSS        — ★★★★☆
+  - Python     — ★★★★☆
 
 ---
 

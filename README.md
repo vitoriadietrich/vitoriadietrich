@@ -1,24 +1,18 @@
-<h1 align="center">💻 Vitória de Jesus Dietrich</h1>
-<p align="center">
-  <strong>Desenvolvedora Full Stack Web | Estudante de ADS | Técnica em Informática | Analista de Produtos Digitais e Dados | UI/UX Designer</strong>
-</p>
+# 💻 Vitória de Jesus Dietrich
 
-<p align="center">
-  📧 <a href="mailto:dietrichvitoria29@email.com">dietrichvitoria29@email.com</a> •
-  📱 <a href="https://wa.me/5511944039125" target="_blank">WhatsApp</a> •
-  💼 <a href="https://www.linkedin.com/in/vitoriadietrich/" target="_blank">LinkedIn</a> •
-  🐙 <a href="https://github.com/vitoriadietrich" target="_blank">GitHub</a>
-</p>
+**Desenvolvedora Full Stack Web | Estudante de ADS | Técnica em Informática | Analista de Produtos Digitais e Dados | UI/UX Designer**
+
+📧 dietrichvitoria29@email.com • 📱 [WhatsApp](https://wa.me/5511944039125) • 💼 [LinkedIn](https://www.linkedin.com/in/vitoriadietrich/) • 🐙 [GitHub](https://github.com/vitoriadietrich)
 
 ---
 
 ## 👩‍💻 Sobre Mim
-Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação.  
+Sou desenvolvedora fullstack web, analista de produtos digitais e dados e técnica em informática apaixonada por tecnologia e inovação.  
 
 - 🌱 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
-- 💡 Interesses: automação ⚡, IA 🤖, hardware 🖥️, design digital 🎨 e análise de dados 📊  
+- 💡 Interesses: Automação ⚡, IA 🤖, Hardware 🖥️, Design Digital 🎨, Análise de Dados 📊  
 - 🎯 Experiência com desenvolvimento web 🌐, organização de projetos 📋 e produtos digitais 💻  
-- ⚡ Amo criar soluções que impactam pessoas e negócios 🚀  
+- 🚀 Amo criar soluções que impactam pessoas e negócios  
 
 ---
 
@@ -33,35 +27,25 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 
 ---
 
-## 💼 Conhecimentos
-
-- 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript, PHP, SQL, MySQL  
-- 🎨 **Criação de artes digitais:** convites, ingressos, logotipos, cartazes  
-- 📊 **Organização de dados:** JSON, bancos de dados SQL/MySQL  
-- 📋 **Gestão de projetos:** P.O do projeto **PoliBee** no Demoday PROA  
-- 🖥️ **Suporte e manutenção:** computadores e redes  
-
----
-
 ## 🛠️ Habilidades & Tecnologias
 
 ### 💻 Linguagens de Programação
-- HTML        — Nível: ★★★★★ 100% 🌐
-- CSS         — Nível: ★★★★☆ 90% 🎨
-- JavaScript  — Nível: ★★★★☆ 90% ⚡
-- PHP         — Nível: ★★★★☆ 80% 🖥️
-- SQL         — Nível: ★★★★☆ 90% 📊
-- MySQL       — Nível: ★★★★☆ 90% 🗄️
-- Python      — Nível: ★★★★☆ 80% 🤖
+- HTML        — ★★★★★ 100% 🌐  
+- CSS         — ★★★★☆ 90% 🎨  
+- JavaScript  — ★★★★☆ 90% ⚡  
+- PHP         — ★★★★☆ 80% 🖥️  
+- SQL         — ★★★★☆ 90% 📊  
+- MySQL       — ★★★★☆ 90% 🗄️  
+- Python      — ★★★★☆ 80% 🤖  
 
 ### ⚙️ Ferramentas & Frameworks
-- Git & GitHub — Proficiência: Expert 🟢 🐙
-- VS Code      — Proficiência: Master 🟢 💻
-- Figma        — Proficiência: Avançado 🟡 🎨
-- Bootstrap    — Proficiência: Expert 🟢 ⚡
-- DB Designer  — Proficiência: Intermediário 🟡 🗄️
-- Trello       — Proficiência: Avançado 🟢 📋
-- Canva        — Proficiência: Avançado 🟡 🎨
+- Git & GitHub — Expert 🟢 🐙  
+- VS Code      — Master 🟢 💻  
+- Figma        — Avançado 🟡 🎨  
+- Bootstrap    — Expert 🟢 ⚡  
+- DB Designer  — Intermediário 🟡 🗄️  
+- Trello       — Avançado 🟢 📋  
+- Canva        — Avançado 🟡 🎨  
 
 ### 🔧 Outras Competências
 - Design Responsivo — Avançado 🌐 📱  
@@ -92,12 +76,13 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 - Commits Totais: 1240 ⚡  
 - Pull Requests: 87 🔄  
 - Issues Criadas: 42 📝  
-- Linguagens Mais Usadas:
-  - JavaScript — ★★★★★ ⚡
-  - PHP        — ★★★★☆ 🖥️
-  - HTML       — ★★★★★ 🌐
-  - CSS        — ★★★★☆ 🎨
-  - Python     — ★★★★☆ 🤖
+
+### Linguagens Mais Usadas
+- JavaScript — ★★★★★ ⚡  
+- PHP        — ★★★★☆ 🖥️  
+- HTML       — ★★★★★ 🌐  
+- CSS        — ★★★★☆ 🎨  
+- Python     — ★★★★☆ 🤖  
 
 ---
 

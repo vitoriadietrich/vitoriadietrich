@@ -10,6 +10,10 @@
   🐙 <a href="https://github.com/vitoriadietrich" target="_blank">GitHub</a>
 </p>
 
+<p align="center">
+  ![Confetti](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+</p>
+
 ---
 
 ## 👩‍💻 Sobre Mim
@@ -18,6 +22,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 - 🌱 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
 - 💡 Interesses: automação, IA, hardware, design digital e análise de dados  
 - 🎯 Experiência com desenvolvimento web, organização de projetos e produtos digitais  
+- ⚡ Amo criar coisas que impactam pessoas e negócios  
 
 ---
 
@@ -44,31 +49,48 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 
 ## 🛠️ Habilidades
 
-- **Linguagens:** HTML, CSS, JavaScript, PHP, SQL, MySQL, Python  
-- **Ferramentas:** Git & GitHub, VS Code, Figma, Canva, Trello, Bootstrap, DB Designer  
-- **Soft skills:** Trabalho em equipe, design responsivo, análise de dados, automação e eletrônica  
+<p align="center">
+  ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+</p>
+
+<p align="center">
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição |
-|---------|-----------|
-| [POLIBEE](#) | Conectando apicultores e agricultores para aluguel de colmeias de abelhas 🐝 |
-| [Colmeia Inteligente](#) | Monitoramento da saúde das abelhas em tempo real com Arduino 🌡️💧 |
-| [VersoVivo](#) | Site de eventos e batalhas de rap 🎤 |
-| [Dietrich](#) | Site de vendas de temperos e produtos naturais 🌿 |
-| [GameOn](#) | Notícias sobre lançamentos de jogos 🎮 |
-| [Jovem Germânico](#) | Curiosidades sobre a cultura alemã 🇩🇪 |
-| [Currículo Online](#) | Disponível no GitHub Pages 💻 |
+| Projeto | Descrição | GIF |
+|---------|-----------|-----|
+| [POLIBEE](#) | Conectando apicultores e agricultores para aluguel de colmeias 🐝 | ![POLIBEE](https://media.giphy.com/media/3o7aD4KkC9i8V1sB2Y/giphy.gif) |
+| [Colmeia Inteligente](#) | Monitoramento em tempo real da saúde das abelhas 🌡️💧 | ![Colmeia](https://media.giphy.com/media/l0HlJ0m0uT96kuqZC/giphy.gif) |
+| [VersoVivo](#) | Site de eventos e batalhas de rap 🎤 | ![VersoVivo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
+| [Dietrich](#) | Site de vendas de temperos e produtos naturais 🌿 | ![Dietrich](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif) |
+| [GameOn](#) | Notícias sobre lançamentos de jogos 🎮 | ![GameOn](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
+| [Jovem Germânico](#) | Curiosidades sobre a cultura alemã 🇩🇪 | ![Germânico](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) |
+| [Currículo Online](#) | Disponível no GitHub Pages 💻 | ![GitHub](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
 
 ---
 
 ## 📊 Status no GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">Feito com 💜 por Vitória de Jesus Dietrich</p>
+<p align="center">
+  ✨ Feito com 💜 por Vitória de Jesus Dietrich ✨  
+  ![Confetti](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+</p>

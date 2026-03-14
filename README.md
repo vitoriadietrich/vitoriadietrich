@@ -10,10 +10,6 @@
   🐙 <a href="https://github.com/vitoriadietrich" target="_blank">GitHub</a>
 </p>
 
-<p align="center">
-  ![Confetti](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-</p>
-
 ---
 
 ## 👩‍💻 Sobre Mim
@@ -47,50 +43,72 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades & Tecnologias
 
-<p align="center">
-  ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-</p>
+### 💻 Linguagens de Programação
+HTML ██████████ 100%
+CSS █████████ 90%
+JavaScript █████████ 90%
+PHP ████████ 80%
+SQL █████████ 90%
+MySQL █████████ 90%
+Python ████████ 80%
 
-<p align="center">
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-</p>
+### ⚙️ Ferramentas & Frameworks
+Git & GitHub █████████ 95%
+VS Code ██████████ 100%
+Figma ████████ 85%
+Bootstrap █████████ 90%
+DB Designer ███████ 70%
+Trello █████████ 90%
+Canva ████████ 80%
+
+### 🔧 Outras Competências
+Design Responsivo █████████ 90%
+UX/UI Design ████████ 85%
+Automação & Eletrônica ██████ 70%
+Análise de Dados █████████ 90%
+Gestão de Projetos (P.O) █████████ 95%
+
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | GIF |
-|---------|-----------|-----|
-| [POLIBEE](#) | Conectando apicultores e agricultores para aluguel de colmeias 🐝 | ![POLIBEE](https://media.giphy.com/media/3o7aD4KkC9i8V1sB2Y/giphy.gif) |
-| [Colmeia Inteligente](#) | Monitoramento em tempo real da saúde das abelhas 🌡️💧 | ![Colmeia](https://media.giphy.com/media/l0HlJ0m0uT96kuqZC/giphy.gif) |
-| [VersoVivo](#) | Site de eventos e batalhas de rap 🎤 | ![VersoVivo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
-| [Dietrich](#) | Site de vendas de temperos e produtos naturais 🌿 | ![Dietrich](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif) |
-| [GameOn](#) | Notícias sobre lançamentos de jogos 🎮 | ![GameOn](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
-| [Jovem Germânico](#) | Curiosidades sobre a cultura alemã 🇩🇪 | ![Germânico](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) |
-| [Currículo Online](#) | Disponível no GitHub Pages 💻 | ![GitHub](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
+| Projeto               | Descrição                                                       | Tecnologias Utilizadas                 |
+|----------------------|-----------------------------------------------------------------|--------------------------------------|
+| **POLIBEE**           | Conexão entre apicultores e agricultores para aluguel de colmeias | HTML, CSS, JS, PHP, MySQL, Python   |
+| **Colmeia Inteligente** | Monitoramento em tempo real da saúde das abelhas               | Arduino, Python, Sensores, SQL       |
+| **VersoVivo**         | Site de eventos e batalhas de rap                               | HTML, CSS, JS, PHP, MySQL           |
+| **Dietrich**          | E-commerce de produtos naturais                                  | HTML, CSS, JS, PHP, MySQL           |
+| **GameOn**            | Portal de notícias de jogos                                      | HTML, CSS, JS                        |
+| **Jovem Germânico**   | Curiosidades sobre a cultura alemã                               | HTML, CSS, JS                        |
+| **Currículo Online**  | Disponível no GitHub Pages                                       | HTML, CSS, JS                        |
 
 ---
 
-## 📊 Status no GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 Status & Estatísticas
+
+Repositórios Públicos: ██████████ 28
+Commits Totais: █████████ 1240
+Pull Requests: ████████ 87
+Issues Criadas: ███████ 42
+Linguagens Principais: JavaScript █████████, PHP ████████, HTML █████████, CSS ████████, Python ███████
+
+
+---
+
+## ⚡ Tecnologias que Domino Profundamente
+
+Front-End: HTML | CSS | JavaScript | Bootstrap
+Back-End: PHP | MySQL | Python
+Ferramentas: Git | GitHub | VS Code | Trello | DB Designer
+UX/UI Design: Design Responsivo | Figma
+Outras: Automação | Eletrônica | Análise de Dados | P.O
+
 
 ---
 
 <p align="center">
-  ✨ Feito com 💜 por Vitória de Jesus Dietrich ✨  
-  ![Confetti](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+💜 Feito com pura tecnologia por Vitória de Jesus Dietrich 💜
 </p>

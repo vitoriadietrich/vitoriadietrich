@@ -30,6 +30,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 | 🧠 Curso Técnico em Informática | Senac Lapa Tito | Presencial |
 | 🎓 Programação em Desenvolvimento de Sistemas | Instituto PROA | Presencial |
 | 📚 Cursos extras de TI | Diversos | EAD/Presencial |
+| 🧩 Others 
 
 ---
 
@@ -39,7 +40,8 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 - 🎨 **Criação de artes digitais:** convites, ingressos, logotipos, cartazes, dentre outros 
 - 📊 **Organização de dados:** JSON, bancos de dados SQL/MySQL  
 - 📋 **Gestão de projetos:** P.O do projeto **PoliBee** no Demoday PROA 2025 - 1º semestre  
-- 🖥️ **Suporte e manutenção:** computadores e redes  
+- 🖥️ **Suporte e manutenção:** computadores e redes
+- 🧩 Others 
 
 ---
 
@@ -53,14 +55,15 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 - DB Designer  — Proficiência: Intermediário 🟡 🗄️
 - Trello       — Proficiência: Avançado 🟢 📋
 - Canva        — Proficiência: Avançado 🟡 🎨
+- Others 🧩
 
 ### 🔧 Outras Competências
 - Design Responsivo — Avançado 🌐 📱  
 - UX/UI Design      — Avançado 🎨 🖌️  
 - Automação & Eletrônica — Básico ⚡ 🔧  
 - Análise de Dados  — Básico 📊 📈  
-- Gestão de Projetos (P.O) — Expert 🚀 📋  
-
+- Gestão de Projetos (P.O) — Expert 🚀 📋
+- Others 🧩
 ---
 
 ## 🚀 Projetos em Destaque

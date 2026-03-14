@@ -16,7 +16,7 @@
 Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação.  
 
 - 🌱 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
-- 💡 Interesses: automação ⚡, IA 🤖, hardware 🖥️, design digital 🎨 e análise de dados 📊  
+- 💡 Interesses: automação ⚡, IA 🤖, hardware 🖥️, design e produto digital 🎨 e análise de dados 📊  
 - 🎯 Experiência com desenvolvimento web 🌐, organização de projetos 📋 e produtos digitais 💻  
 - ⚡ Amo criar soluções que impactam pessoas e negócios 🚀  
 
@@ -26,7 +26,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 
 | Curso | Instituição | Modalidade |
 |-------|------------|------------|
-| 💻 Engenharia da Computação | Universidade Anhembi Morumbi | EAD |
+| 💻 Análise e Desenvolvimento de Sistemas | Faculdade Flamingo | Presencial |
 | 🧠 Curso Técnico em Informática | Senac Lapa Tito | Presencial |
 | 🎓 Programação em Desenvolvimento de Sistemas | Instituto PROA | Presencial |
 | 📚 Cursos extras de TI | Diversos | EAD/Presencial |
@@ -35,24 +35,15 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 
 ## 💼 Conhecimentos
 
-- 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript, PHP, SQL, MySQL  
-- 🎨 **Criação de artes digitais:** convites, ingressos, logotipos, cartazes  
+- 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript, PHP, Java, React, Kotlin, Python, SQL, MySQL  
+- 🎨 **Criação de artes digitais:** convites, ingressos, logotipos, cartazes, dentre outros 
 - 📊 **Organização de dados:** JSON, bancos de dados SQL/MySQL  
-- 📋 **Gestão de projetos:** P.O do projeto **PoliBee** no Demoday PROA  
+- 📋 **Gestão de projetos:** P.O do projeto **PoliBee** no Demoday PROA 2025 - 1º semestre  
 - 🖥️ **Suporte e manutenção:** computadores e redes  
 
 ---
 
 ## 🛠️ Habilidades & Tecnologias
-
-### 💻 Linguagens de Programação
-- HTML        — Nível: ★★★★★ 100% 🌐
-- CSS         — Nível: ★★★★☆ 90% 🎨
-- JavaScript  — Nível: ★★★★☆ 90% ⚡
-- PHP         — Nível: ★★★★☆ 80% 🖥️
-- SQL         — Nível: ★★★★☆ 90% 📊
-- MySQL       — Nível: ★★★★☆ 90% 🗄️
-- Python      — Nível: ★★★★☆ 80% 🤖
 
 ### ⚙️ Ferramentas & Frameworks
 - Git & GitHub — Proficiência: Expert 🟢 🐙
@@ -66,8 +57,8 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 ### 🔧 Outras Competências
 - Design Responsivo — Avançado 🌐 📱  
 - UX/UI Design      — Avançado 🎨 🖌️  
-- Automação & Eletrônica — Intermediário ⚡ 🔧  
-- Análise de Dados  — Avançado 📊 📈  
+- Automação & Eletrônica — Básico ⚡ 🔧  
+- Análise de Dados  — Básico 📊 📈  
 - Gestão de Projetos (P.O) — Expert 🚀 📋  
 
 ---
@@ -76,38 +67,28 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 
 | Projeto               | Descrição                                                       | Tecnologias Utilizadas                 |
 |----------------------|-----------------------------------------------------------------|--------------------------------------|
-| **POLIBEE**           | Conexão entre apicultores 🐝 e agricultores 🌱 para aluguel de colmeias | HTML, CSS, JS, PHP, MySQL, Python   |
-| **Colmeia Inteligente** | Monitoramento em tempo real 🌡️💧 da saúde das abelhas | Arduino, Python, Sensores, SQL       |
-| **VersoVivo**         | Site de eventos 🎤 e batalhas de rap | HTML, CSS, JS, PHP, MySQL           |
+| **POLIBEE - Mobile & Web**           | Conexão entre apicultores 🐝 e agricultores 🌱 para aluguel de colmeias | HTML, CSS, JS, Kotlin, MongoDB   |
+| **Colmeia Inteligente** | Monitoramento em tempo real 🌡️💧 da saúde das abelhas | Arduino, C++, Sensores, DHT11, etc       |
+| **VersoVivo**         | Site de eventos 🎤 e batalhas de rap | HTML, CSS, JS, PHP, MySQL, SQL           |
 | **Dietrich**          | E-commerce de produtos naturais 🌿 | HTML, CSS, JS, PHP, MySQL           |
-| **GameOn**            | Portal de notícias de jogos 🎮 | HTML, CSS, JS                        |
+| **GameOn**            | Portal de notícias de jogos 🎮 | HTML, CSS, JS, SQL                        |
 | **Jovem Germânico**   | Curiosidades sobre a cultura alemã 🇩🇪 | HTML, CSS, JS                        |
+| **Watify**   | Aplicativo interativo que mostra em tempo real o quanto você está gastando de água | Figma, Canva                        |
+| **LevSong**   | Aplicativo para escutar louvores tranquilos | Kotlin, Android Studio, Figma                        |
+| **Kito**   | Aplicativo de ensino de matemática com níveis básico, intermediário e avançado | Canva, Figma                        |
+| **AstroSPACE - Mobile & Web**   | Para escutar música e acompanhar artistas, com playlists, lançamentos e novidades do cenário musical. | Canva, Figma                        |
+| **JavaCoffee**   | Aplicativo que mostra opções de cafés para escolher | Kotlin, Android Studio, Figma                        |
 | **Currículo Online**  | Disponível no GitHub Pages 💻 | HTML, CSS, JS                        |
-
----
-
-## 📊 Status & Estatísticas GitHub
-
-- Repositórios Públicos: 28 ✅  
-- Commits Totais: 1240 ⚡  
-- Pull Requests: 87 🔄  
-- Issues Criadas: 42 📝  
-- Linguagens Mais Usadas:
-  - JavaScript — ★★★★★ ⚡
-  - PHP        — ★★★★☆ 🖥️
-  - HTML       — ★★★★★ 🌐
-  - CSS        — ★★★★☆ 🎨
-  - Python     — ★★★★☆ 🤖
 
 ---
 
 ## ⚡ Tecnologias que Domino Profundamente
 
-**Front-End:** HTML 🌐 | CSS 🎨 | JavaScript ⚡ | Bootstrap 💻  
-**Back-End:** PHP 🖥️ | MySQL 🗄️ | Python 🤖  
-**Ferramentas:** Git 🐙 | GitHub 🟢 | VS Code 💻 | Trello 📋 | DB Designer 🗄️  
-**UX/UI Design:** Design Responsivo 🌐 | Figma 🎨  
-**Outras:** Automação ⚡ | Eletrônica 🔧 | Análise de Dados 📊 | P.O 🚀  
+**Front-End:** HTML 🌐 | CSS 🎨 | JavaScript ⚡ | Bootstrap 💻 | Others 🧩 
+**Back-End:** PHP 🖥️ | MySQL 🗄️ | Python 🤖 | Others 🧩  
+**Ferramentas:** Git 🐙 | GitHub 🟢 | VS Code 💻 | Trello 📋 | DB Designer 🗄️ | Others 🧩   
+**UX/UI Design:** Design Responsivo 🌐 | Figma 🎨 | Others 🧩 
+**Outras:** Automação ⚡ | Produtos Digitais 💻 | Análise de Dados 📊 | P.O 🚀 | Others 🧩   
 
 ---
 

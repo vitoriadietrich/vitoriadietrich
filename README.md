@@ -90,6 +90,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 **Front-End:** HTML 🌐 | CSS 🎨 | JavaScript ⚡ | Bootstrap 💻 | Others 🧩 
 
 **Back-End:** PHP 🖥️ | MySQL 🗄️ | Python 🤖 | Others 🧩  
+
 **Ferramentas:** Git 🐙 | GitHub 🟢 | VS Code 💻 | Trello 📋 | DB Designer 🗄️ | Others 🧩   
 
 **UX/UI Design:** Design Responsivo 🌐 | Figma 🎨 | Others 🧩 

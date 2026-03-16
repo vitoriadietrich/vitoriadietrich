@@ -37,10 +37,10 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 ## 💼 Conhecimentos
 
 - 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript, PHP, Java, React, Kotlin, Python, SQL, MySQL  
-- 🎨 **Criação de artes digitais:** convites, ingressos, logotipos, cartazes, dentre outros 
-- 📊 **Organização de dados:** JSON, bancos de dados SQL/MySQL  
-- 📋 **Gestão de projetos:** P.O do projeto **PoliBee** no Demoday PROA 2025 - 1º semestre  
-- 🖥️ **Suporte e manutenção:** computadores e redes
+- 🎨 **Criação de Artes Digitais:** convites, ingressos, logotipos, cartazes, dentre outros 
+- 📊 **Organização de Dados:** JSON, bancos de dados SQL/MySQL  
+- 📋 **Gestão de Projetos:** P.O do projeto **POLIBEE** no Demoday PROA 2025 - 1º semestre  
+- 🖥️ **Suporte e Manutenção:** computadores e redes
 - 🧩 Others 
 
 ---
@@ -88,9 +88,12 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 ## ⚡ Tecnologias que Domino Profundamente
 
 **Front-End:** HTML 🌐 | CSS 🎨 | JavaScript ⚡ | Bootstrap 💻 | Others 🧩 
+
 **Back-End:** PHP 🖥️ | MySQL 🗄️ | Python 🤖 | Others 🧩  
 **Ferramentas:** Git 🐙 | GitHub 🟢 | VS Code 💻 | Trello 📋 | DB Designer 🗄️ | Others 🧩   
+
 **UX/UI Design:** Design Responsivo 🌐 | Figma 🎨 | Others 🧩 
+
 **Outras:** Automação ⚡ | Produtos Digitais 💻 | Análise de Dados 📊 | P.O 🚀 | Others 🧩   
 
 ---

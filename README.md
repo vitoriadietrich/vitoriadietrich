@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:dietrichvitoria29@email.com">dietrichvitoria29@email.com</a> •
+  📧 <a href="mailto:dietrichvitoria29@gmail.com">dietrichvitoria29@email.com</a> •
   📱 <a href="https://wa.me/5511944039125" target="_blank">WhatsApp</a> •
   💼 <a href="https://www.linkedin.com/in/vitoriadietrich/" target="_blank">LinkedIn</a> •
   🐙 <a href="https://github.com/vitoriadietrich" target="_blank">GitHub</a>

@@ -1,6 +1,6 @@
 <h1 align="center">Vitória de Jesus Dietrich</h1>
 <p align="center">
-  <strong>Desenvolvedora Full Stack Web | Estudante de ADS | Técnica em Informática | Analista de Produtos Digitais e Dados | UI/UX Designer</strong>
+  <strong>Desenvolvedora Full Stack Web | Estudante de ADS e Inteligência Artificial | Técnica em Informática | Analista de Produtos Digitais e Dados | UI/UX Designer</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## Sobre Mim
 Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação.  
 
-- Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
+- Atualmente cursando **Análise e Desenvolvimento de Sistemas e Inteligência Artificial**  
 - Interesses: automação, IA, hardware, design e produto digital e análise de dados   
 - Experiência com desenvolvimento web, organização de projetos e produtos digitais   
 - Amo criar soluções que impactam pessoas e negócios   
@@ -27,6 +27,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 | Curso | Instituição | Modalidade |
 |-------|------------|------------|
 | Análise e Desenvolvimento de Sistemas | Faculdade Flamingo | Presencial |
+| Inteligência Artificial | Univesp | EAD |
 | Curso Técnico em Informática | Senac Lapa Tito | Presencial |
 | Programação em Desenvolvimento de Sistemas | Instituto PROA | Presencial |
 | Cursos extras de TI | Diversos | EAD/Presencial |
@@ -36,7 +37,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 
 ## Conhecimentos
 
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, PHP, Java, React, Kotlin, Python, SQL, MySQL  
+- **Desenvolvimento Web:** HTML5, CSS3, JavaScript, PHP, Java, React, Kotlin, Python, SQL, MySQL, Node.js  
 - **Criação de Artes Digitais:** convites, ingressos, logotipos, cartazes, dentre outros 
 - **Organização de Dados:** JSON, bancos de dados SQL/MySQL  
 - **Gestão de Projetos:** P.O do projeto **POLIBEE** no Demoday PROA 2025 - 1º semestre  
@@ -48,21 +49,21 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 ## Habilidades & Tecnologias
 
 ### Ferramentas & Frameworks
-- Git & GitHub — Proficiência: Expert 
-- VS Code      — Proficiência: Master 
-- Figma        — Proficiência: Avançado 
-- Bootstrap    — Proficiência: Expert 
-- DB Designer  — Proficiência: Intermediário 
-- Trello       — Proficiência: Avançado 
-- Canva        — Proficiência: Avançado 
+- Git & GitHub  
+- VS Code       
+- Figma         
+- Bootstrap     
+- DB Designer   
+- Trello        
+- Canva      
 - Others 
 
 ### Outras Competências
-- Design Responsivo — Avançado   
-- UX/UI Design      — Avançado 
-- Automação & Eletrônica — Básico   
-- Análise de Dados  — Básico   
-- Gestão de Projetos (P.O) — Expert 
+- Design Responsivo    
+- UX/UI Design 
+- Automação & Eletrônica   
+- Análise de Dados    
+- Gestão de Projetos (P.O)  
 - Others 
 ---
 
@@ -82,6 +83,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 | **AstroSPACE - Mobile & Web**   | Para escutar música e acompanhar artistas, com playlists, lançamentos e novidades do cenário musical. | Canva, Figma |
 | **JavaCoffee**   | Aplicativo que mostra opções de cafés para escolher | Kotlin, Android Studio, Figma |
 | **Currículo Online**  | Disponível no GitHub Pages | HTML, CSS, JS |
+| **Other** |
 
 ---
 
@@ -100,5 +102,5 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 ---
 
 <p align="center">
-💜 Feito com pura tecnologia por Vitória de Jesus Dietrich 💜
+💜 Feito por Vitória de Jesus Dietrich 💜
 </p>

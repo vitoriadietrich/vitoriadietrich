@@ -83,7 +83,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 | **AstroSPACE - Mobile & Web**   | Para escutar música e acompanhar artistas, com playlists, lançamentos e novidades do cenário musical. | Canva, Figma |
 | **JavaCoffee**   | Aplicativo que mostra opções de cafés para escolher | Kotlin, Android Studio, Figma |
 | **Currículo Online**  | Disponível no GitHub Pages | HTML, CSS, JS |
-| **Other** |
+| **Others** |
 
 ---
 

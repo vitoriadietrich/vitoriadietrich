@@ -76,7 +76,7 @@ Sou desenvolvedora fullstack web, analista de produtos digitais e dados, e técn
 | **VersoVivo**         | Site de eventos e batalhas de rap | HTML, CSS, JS, PHP, MySQL, SQL |
 | **Dietrich**          | E-commerce de produtos naturais | HTML, CSS, JS, PHP, MySQL |
 | **GameOn**            | Portal de notícias de jogos | HTML, CSS, JS, SQL |
-| **Jovem Germânico**   | Curiosidades sobre a cultura alemã 🇩🇪 | HTML, CSS, JS |
+| **Jovem Germânico**   | Curiosidades sobre a cultura alemã | HTML, CSS, JS |
 | **Watify**   | Aplicativo interativo que mostra em tempo real o quanto você está gastando de água | Figma, Canva |
 | **LevSong**   | Aplicativo para escutar louvores tranquilos | Kotlin, Android Studio, Figma |
 | **Kito**   | Aplicativo de ensino de matemática com níveis básico, intermediário e avançado | Canva, Figma |

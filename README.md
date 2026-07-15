@@ -142,6 +142,23 @@ Outras Competências
 <tr><td><strong>Dados & Produto</strong></td><td><img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=be185d&suffix=%25"/></td></tr>
 </table>
 <br/>
+<img src="https://img.shields.io/badge/-GR%C3%81FICOS%20E%20ESTAT%C3%8DSTICAS-BE185D?style=for-the-badge"/>
+<br/>
+<div align="center">
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Front-End%22%2C%20%22Back-End%22%2C%20%22Mobile%22%2C%20%22UX%2FUI%20Design%22%2C%20%22Dados%20%26%20Produto%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Dom%5Cu00ednio%20%28%25%29%22%2C%20%22data%22%3A%20%5B85%2C%2075%2C%2065%2C%2080%2C%2075%5D%2C%20%22backgroundColor%22%3A%20%22rgba%28192%2C%2038%2C%20211%2C%200.35%29%22%2C%20%22borderColor%22%3A%20%22rgb%28219%2C%2039%2C%20119%29%22%2C%20%22borderWidth%22%3A%202%2C%20%22pointBackgroundColor%22%3A%20%22rgb%28219%2C%2039%2C%20119%29%22%2C%20%22pointBorderColor%22%3A%20%22%23fff%22%2C%20%22pointRadius%22%3A%204%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%236C2BD9%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%234C1D95%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%7D%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22backdropColor%22%3A%20%22transparent%22%7D%2C%20%22suggestedMin%22%3A%200%2C%20%22suggestedMax%22%3A%20100%7D%7D%7D%7D&backgroundColor=rgb(15,6,32)&width=480&height=380&devicePixelRatio=2" width="48%"/>
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Desenvolvimento%20Web%22%2C%20%22Mobile%22%2C%20%22UX%2FUI%20Design%22%2C%20%22Dados%20%26%20Automa%5Cu00e7%5Cu00e3o%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B40%2C%2020%2C%2020%2C%2020%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23DB2777%22%2C%20%22%23C026D3%22%2C%20%22%239333EA%22%2C%20%22%236C2BD9%22%5D%2C%20%22borderColor%22%3A%20%22%230F0620%22%2C%20%22borderWidth%22%3A%203%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%2C%20%22labels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2012%7D%7D%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22cutout%22%3A%20%2260%25%22%7D%7D&backgroundColor=rgb(15,6,32)&width=460&height=380&devicePixelRatio=2" width="48%"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&hide_title=false&title_color=DB2777&text_color=E9D5FF&icon_color=C026D3&bg_color=0F0620&border_color=6C2BD9&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&title_color=DB2777&text_color=E9D5FF&icon_color=C026D3&bg_color=0F0620&border_color=6C2BD9&border_radius=10" width="38%"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriadietrich&background=0F0620&ring=DB2777&fire=C026D3&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=ffffff&sideNums=ffffff&dates=9333EA&border=6C2BD9&border_radius=10" width="60%"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriadietrich&bg_color=0F0620&color=E9D5FF&line=DB2777&point=C026D3&area=true&area_color=9333EA&hide_border=true&border_radius=10" width="90%"/>
+</div>
+<br/>
 <img src="https://img.shields.io/badge/-PROJETOS%20EM%20DESTAQUE-DB2777?style=for-the-badge"/>
 <table width="100%">
 <thead>

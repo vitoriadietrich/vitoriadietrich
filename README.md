@@ -1,56 +1,53 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,100:2B7FD9&height=180&section=header&text=Vitória%20de%20Jesus%20Dietrich&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Product%20%26%20Data%20Analyst%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=58" width="100%"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora+Full+Stack+Web;Estudante+de+ADS+e+Intelig%C3%AAncia+Artificial;T%C3%A9cnica+em+Inform%C3%A1tica;Analista+de+Produtos+Digitais+e+Dados;UI%2FUX+Designer&font=Fira+Code&center=true&width=650&height=45&color=6C2BD9&vCenter=true&size=22&pause=1800"/>
-<br/><br/>
-
-<a href="mailto:dietrichvitoria29@gmail.com"><img src="https://img.shields.io/badge/Email-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5511944039125" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vitoriadietrich/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/vitoriadietrich" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,25:6C2BD9,50:9333EA,75:C026D3,100:DB2777&height=220&section=header&text=Vit%C3%B3ria%20de%20Jesus%20Dietrich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=52&descColor=E9D5FF"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora+Full+Stack+Web;Estudante+de+ADS+e+Intelig%C3%AAncia+Artificial;T%C3%A9cnica+em+Inform%C3%A1tica;Analista+de+Produtos+Digitais+e+Dados;UI%2FUX+Designer&font=Fira+Code&center=true&width=700&height=50&color=C026D3&vCenter=true&size=23&pause=1800&weight=600"/>
 <br/>
 Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 
+<img src="https://komarev.com/ghpvc/?username=vitoriadietrich&color=9333ea&style=for-the-badge&label=PERFIL+VISUALIZADO"/>
 </div>
 <br/>
-Sobre Mim
-
-
-Desenvolvedora fullstack web, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação.
-
-
-
-<table>
+<img src="https://img.shields.io/badge/-SOBRE%20MIM-3B0764?style=for-the-badge"/>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-O que me move:
+<td width="60%" valign="top">
+<br/>
+
+"Desenvolvedora fullstack web, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação."
 
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas e Inteligência Artificial
-Interesses: automação, IA, hardware, design, produto digital e análise de dados
-Experiência com desenvolvimento web, organização de projetos e produtos digitais
-Amo criar soluções que impactam pessoas e negócios
 
+ 
+
+<img width="18" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%239333EA"/>  Atualmente cursando Análise e Desenvolvimento de Sistemas e Inteligência Artificial
+
+<img width="18" src="https://api.iconify.design/lucide:sparkles.svg?color=%239333EA"/>  Interesses: automação, IA, hardware, design, produto digital e análise de dados
+
+<img width="18" src="https://api.iconify.design/lucide:code.svg?color=%239333EA"/>  Experiência com desenvolvimento web, organização de projetos e produtos digitais
+
+<img width="18" src="https://api.iconify.design/lucide:heart-handshake.svg?color=%239333EA"/>  Amo criar soluções que impactam pessoas e negócios
 
 </td>
-<td width="50%" valign="top">
-textconst vitoria = {
+<td width="40%" valign="top">
+javascriptconst vitoria = {
   papel: "Full Stack Developer",
   foco: ["Web", "IA", "Produto", "Dados"],
-  missao: "Criar soluções que geram impacto real",
-  status: "Sempre aprendendo"
+  stack: ["JS", "PHP", "Python", "Go"],
+  missao: "Criar soluções com impacto real",
+  status: "Aprendendo sempre"
 };
 
 </td>
 </tr>
 </table>
 <br/>
-Formação Acadêmica
-
-<table>
+<img src="https://img.shields.io/badge/-FORMA%C3%87%C3%83O%20ACAD%C3%8AMICA-6C2BD9?style=for-the-badge"/>
+<table width="100%">
 <thead>
-<tr>
+<tr style="background-color:#3B0764">
 <th align="left">Curso</th>
 <th align="left">Instituição</th>
 <th align="center">Modalidade</th>
@@ -60,27 +57,27 @@ Formação Acadêmica
 <tr>
 <td>Análise e Desenvolvimento de Sistemas</td>
 <td>Faculdade Flamingo</td>
-<td align="center"><img src="https://img.shields.io/badge/Presencial-6C2BD9?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Presencial-9333EA?style=flat-square"/></td>
 </tr>
 <tr>
 <td>Inteligência Artificial</td>
 <td>Univesp</td>
-<td align="center"><img src="https://img.shields.io/badge/EAD-2B7FD9?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/EAD-C026D3?style=flat-square"/></td>
 </tr>
 <tr>
 <td>Curso Técnico em Informática</td>
 <td>Senac Lapa Tito</td>
-<td align="center"><img src="https://img.shields.io/badge/Presencial-6C2BD9?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Presencial-9333EA?style=flat-square"/></td>
 </tr>
 <tr>
 <td>Programação em Desenvolvimento de Sistemas</td>
 <td>Instituto PROA</td>
-<td align="center"><img src="https://img.shields.io/badge/Presencial-6C2BD9?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Presencial-9333EA?style=flat-square"/></td>
 </tr>
 <tr>
 <td>Cursos extras de TI</td>
 <td>Diversos</td>
-<td align="center"><img src="https://img.shields.io/badge/EAD%2FPresencial-2B7FD9?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/EAD%2FPresencial-C026D3?style=flat-square"/></td>
 </tr>
 <tr>
 <td colspan="3" align="center"><em>Others</em></td>
@@ -88,9 +85,8 @@ Formação Acadêmica
 </tbody>
 </table>
 <br/>
-Conhecimentos
-
-<table>
+<img src="https://img.shields.io/badge/-CONHECIMENTOS-9333EA?style=for-the-badge"/>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 Desenvolvimento Web
@@ -113,47 +109,41 @@ Computadores e redes
 </td>
 </tr>
 </table>
-Others
-
+<p align="right"><em>Others</em></p>
 <br/>
-Habilidades e Tecnologias
+<img src="https://img.shields.io/badge/-HABILIDADES%20%26%20TECNOLOGIAS-A21CAF?style=for-the-badge"/>
+<div align="center">
+<br/>
+Ferramentas & Frameworks
 
-Ferramentas e Frameworks
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bootstrap,trello,canva&theme=dark" />
+<br/><br/>
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/DB%20Designer-2B7FD9?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Others-6C2BD9?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Others-A21CAF?style=flat-square"/>
+</div>
+<br/>
 Outras Competências
 
-<p>
-<img src="https://img.shields.io/badge/Design%20Responsivo-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/UX%2FUI%20Design-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automação%20%26%20Eletrônica-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Análise%20de%20Dados-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gestão%20de%20Projetos%20(P.O)-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Others-6C2BD9?style=flat-square"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Design%20Responsivo-3B0764?style=flat-square&labelColor=6C2BD9"/>
+<img src="https://img.shields.io/badge/UX%2FUI%20Design-3B0764?style=flat-square&labelColor=6C2BD9"/>
+<img src="https://img.shields.io/badge/Automação%20%26%20Eletrônica-3B0764?style=flat-square&labelColor=6C2BD9"/>
+<img src="https://img.shields.io/badge/Análise%20de%20Dados-3B0764?style=flat-square&labelColor=6C2BD9"/>
+<img src="https://img.shields.io/badge/Gestão%20de%20Projetos%20(P.O)-3B0764?style=flat-square&labelColor=6C2BD9"/>
+<img src="https://img.shields.io/badge/Others-3B0764?style=flat-square&labelColor=6C2BD9"/>
 </p>
 <br/>
-Nível de Domínio Técnico
-
-Front-End        ████████████████████░░░░   HTML · CSS · JavaScript · Bootstrap
-Back-End         ████████████████░░░░░░░░   PHP · MySQL · Python · Golang
-Mobile           ██████████████░░░░░░░░░░   Kotlin · Android Studio
-UX/UI Design     ██████████████████░░░░░░   Figma · Design Responsivo
-Dados & Produto  ████████████████░░░░░░░░   Análise de Dados · P.O · Automação
-
+<img src="https://img.shields.io/badge/-N%C3%8DVEL%20DE%20DOM%C3%8DNIO%20T%C3%89CNICO-C026D3?style=for-the-badge"/>
+<table width="100%">
+<tr><td width="22%"><strong>Front-End</strong></td><td width="78%"><img src="https://progress-bar.dev/85/?scale=100&title=&width=400&color=9333ea&suffix=%25"/></td></tr>
+<tr><td><strong>Back-End</strong></td><td><img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=a21caf&suffix=%25"/></td></tr>
+<tr><td><strong>Mobile</strong></td><td><img src="https://progress-bar.dev/65/?scale=100&title=&width=400&color=c026d3&suffix=%25"/></td></tr>
+<tr><td><strong>UX/UI Design</strong></td><td><img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=db2777&suffix=%25"/></td></tr>
+<tr><td><strong>Dados & Produto</strong></td><td><img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=be185d&suffix=%25"/></td></tr>
+</table>
 <br/>
-Projetos em Destaque
-
-<table>
+<img src="https://img.shields.io/badge/-PROJETOS%20EM%20DESTAQUE-DB2777?style=for-the-badge"/>
+<table width="100%">
 <thead>
 <tr>
 <th align="left">Projeto</th>
@@ -228,62 +218,35 @@ Projetos em Destaque
 </tbody>
 </table>
 <br/>
-Tecnologias que Domino Profundamente
+<img src="https://img.shields.io/badge/-TECNOLOGIAS%20QUE%20DOMINO%20PROFUNDAMENTE-BE185D?style=for-the-badge"/>
+<br/><br/>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="20%"><strong>Front-End</strong></td>
-<td valign="top" width="80%">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Others-6C2BD9?style=flat-square"/>
-</td>
+<td width="18%" valign="middle"><strong>Front-End</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/> &nbsp; <img src="https://img.shields.io/badge/Others-9333EA?style=flat-square"/></td>
 </tr>
 <tr>
-<td valign="top"><strong>Back-End</strong></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Others-6C2BD9?style=flat-square"/>
-</td>
+<td valign="middle"><strong>Back-End</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=php,mysql,python,go&theme=dark"/> &nbsp; <img src="https://img.shields.io/badge/Others-9333EA?style=flat-square"/></td>
 </tr>
 <tr>
-<td valign="top"><strong>Ferramentas</strong></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/DB%20Designer-2B7FD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Others-6C2BD9?style=flat-square"/>
-</td>
+<td valign="middle"><strong>Ferramentas</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,trello&theme=dark"/> &nbsp; <img src="https://img.shields.io/badge/DB%20Designer-9333EA?style=flat-square"/> <img src="https://img.shields.io/badge/Others-9333EA?style=flat-square"/></td>
 </tr>
 <tr>
-<td valign="top"><strong>UX/UI Design</strong></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Design%20Responsivo-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Others-6C2BD9?style=flat-square"/>
-</td>
+<td valign="middle"><strong>UX/UI Design</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=figma&theme=dark"/> &nbsp; <img src="https://img.shields.io/badge/Design%20Responsivo-9333EA?style=flat-square"/> <img src="https://img.shields.io/badge/Others-9333EA?style=flat-square"/></td>
 </tr>
 <tr>
-<td valign="top"><strong>Outras</strong></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Automação-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Produtos%20Digitais-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Análise%20de%20Dados-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/P.O-6C2BD9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Others-6C2BD9?style=flat-square"/>
-</td>
+<td valign="middle"><strong>Outras</strong></td>
+<td valign="middle"><img src="https://img.shields.io/badge/Automação-9333EA?style=flat-square"/> <img src="https://img.shields.io/badge/Produtos%20Digitais-9333EA?style=flat-square"/> <img src="https://img.shields.io/badge/Análise%20de%20Dados-9333EA?style=flat-square"/> <img src="https://img.shields.io/badge/P.O-9333EA?style=flat-square"/> <img src="https://img.shields.io/badge/Others-9333EA?style=flat-square"/></td>
 </tr>
 </table>
-<br/>
+<br/><br/>
+
 <div align="center">
 <strong>Feito por Vitória de Jesus Dietrich</strong>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B7FD9,100:6C2BD9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,25:C026D3,50:9333EA,75:6C2BD9,100:3B0764&height=150&section=footer"/>
 </div>

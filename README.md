@@ -1,310 +1,119 @@
-<div align="center">
-
 # Vitória de Jesus Dietrich
 
-### Desenvolvedora Full Stack Web • Analista de Produtos Digitais e Dados • UI/UX Designer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&lines=Desenvolvedora+Full+Stack+Web;Estudante+de+ADS+e+Inteligência+Artificial;Analista+de+Produtos+Digitais+e+Dados;UI%2FUX+Designer;Técnica+em+Informática" />
-
-<br>
-
-<a href="mailto:dietrichvitoria29@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://wa.me/5511944039125">
-<img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/vitoriadietrich">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/vitoriadietrich">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+**Desenvolvedora Full Stack Web | Estudante de Análise e Desenvolvimento de Sistemas e Inteligência Artificial | Técnica em Informática | Analista de Produtos Digitais e Dados | UI/UX Designer**
 
 ---
 
-# Sobre
-
-Sou Desenvolvedora Full Stack Web, Analista de Produtos Digitais e Dados e Técnica em Informática apaixonada por tecnologia, inovação e criação de soluções digitais.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Inteligência Artificial**, ampliando meus conhecimentos em desenvolvimento de software, engenharia de produtos digitais e novas tecnologias.
-
-Tenho experiência com desenvolvimento web, organização de projetos, produtos digitais, UX/UI Design e análise de dados, sempre buscando criar soluções que gerem impacto real para pessoas e negócios.
+**Contato**  
+[Email](mailto:dietrichvitoria29@gmail.com) • [WhatsApp](https://wa.me/5511944039125) • [LinkedIn](https://www.linkedin.com/in/vitoriadietrich/) • [GitHub](https://github.com/vitoriadietrich)
 
 ---
 
-# Formação Acadêmica
+## Sobre Mim
 
-| Formação | Instituição | Modalidade |
-|----------|------------|------------|
-| Análise e Desenvolvimento de Sistemas | Faculdade Flamingo | Presencial |
-| Inteligência Artificial | UNIVESP | EAD |
-| Técnico em Informática | SENAC Lapa Tito | Presencial |
-| Programação em Desenvolvimento de Sistemas | Instituto PROA | Presencial |
-| Cursos Extras em Tecnologia | Diversas Instituições | Presencial / EAD |
-| Others |
+Desenvolvedora Full Stack Web com sólida formação técnica e paixão por tecnologia, inovação e soluções que geram impacto real em pessoas e negócios. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Inteligência Artificial**, combino expertise em desenvolvimento, análise de dados, design de produtos digitais e gestão de projetos.
+
+- Experiência prática em projetos full stack, automação e hardware  
+- Foco em criação de soluções escaláveis, intuitivas e centradas no usuário  
+- Histórico de liderança técnica como Product Owner em projetos premiados  
 
 ---
 
-# Stack Tecnológica
+## Formação Acadêmica
 
-## Linguagens
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,python,react,nodejs,mysql" />
-
-</p>
-
----
-
-## Ferramentas
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bootstrap" />
-
-</p>
-
-**Também utilizo**
-
-- DB Designer
-- Canva
-- Trello
-- JSON
-- SQL
-- MySQL
-- Others
+| Curso                                      | Instituição              | Modalidade   |
+|--------------------------------------------|--------------------------|--------------|
+| Análise e Desenvolvimento de Sistemas      | Faculdade Flamingo       | Presencial   |
+| Inteligência Artificial                    | Univesp                  | EAD          |
+| Curso Técnico em Informática               | Senac Lapa Tito          | Presencial   |
+| Programação em Desenvolvimento de Sistemas | Instituto PROA           | Presencial   |
+| Cursos extras de TI                        | Diversos                 | EAD/Presencial |
 
 ---
 
-# Áreas de Atuação
+## Conhecimentos Técnicos
 
-- Desenvolvimento Full Stack Web
-- Produtos Digitais
-- UX/UI Design
-- Análise de Dados
-- Banco de Dados
-- Gestão de Projetos
-- Product Owner
-- Automação
-- Eletrônica
-- Suporte Técnico
-- Redes
-- Criação de Artes Digitais
-- Others
+### Desenvolvimento Web e Linguagens
+- **Front-end:** HTML5, CSS3, JavaScript, React, Bootstrap  
+- **Back-end:** PHP, Java, Kotlin, Python, Node.js, **Golang**  
+- **Banco de Dados:** SQL, MySQL, MongoDB  
+- **Outros:** JSON, automação de processos, integração de APIs  
 
----
+### Design e Produtos Digitais
+- Criação de artes digitais (convites, ingressos, logotipos, cartazes)  
+- UX/UI Design com foco em design responsivo e experiência do usuário  
+- Ferramentas: Figma, Canva  
 
-# Conhecimentos
-
-### Desenvolvimento Web
-
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- Java
-- React
-- Kotlin
-- Python
-- SQL
-- MySQL
-- Node.js
-
-### Produtos Digitais
-
-- Product Owner
-- UX/UI
-- Gestão de Projetos
-- Organização de Backlog
-
-### Dados
-
-- SQL
-- MySQL
-- JSON
-- Modelagem
-
-### Infraestrutura
-
-- Manutenção de Computadores
-- Redes
-- Hardware
+### Outras Competências
+- Organização e análise de dados  
+- Gestão de Projetos (Product Owner)  
+- Suporte técnico, manutenção de computadores e redes  
+- Automação e eletrônica (Arduino, sensores)  
 
 ---
 
-# Projetos
+## Habilidades & Tecnologias
 
-## POLIBEE — Mobile & Web
+### Ferramentas & Frameworks
+- Git & GitHub  
+- Visual Studio Code  
+- Figma  
+- Bootstrap  
+- DB Designer  
+- Trello  
+- Canva  
 
-Conexão entre apicultores e agricultores para aluguel de colmeias.
-
-**Tecnologias**
-
-HTML • CSS • JavaScript • Kotlin • MongoDB
-
----
-
-## Colmeia Inteligente
-
-Monitoramento em tempo real da saúde das abelhas.
-
-**Tecnologias**
-
-Arduino • C++ • DHT11 • Sensores
-
----
-
-## VersoVivo
-
-Plataforma para eventos e batalhas de rap.
-
-**Tecnologias**
-
-HTML • CSS • JavaScript • PHP • MySQL
+### Competências Avançadas
+- Design Responsivo  
+- UX/UI Design  
+- Automação & Eletrônica  
+- Análise de Dados  
+- Gestão de Projetos como Product Owner  
+- Arquitetura de Soluções Full Stack  
 
 ---
 
-## Dietrich
+## Projetos em Destaque
 
-E-commerce de produtos naturais.
-
-**Tecnologias**
-
-HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-## GameOn
-
-Portal de notícias sobre jogos.
-
-**Tecnologias**
-
-HTML • CSS • JavaScript • SQL
-
----
-
-## Jovem Germânico
-
-Portal sobre curiosidades da cultura alemã.
-
-**Tecnologias**
-
-HTML • CSS • JavaScript
+| Projeto                        | Descrição                                                                 | Tecnologias Utilizadas                  |
+|--------------------------------|---------------------------------------------------------------------------|-----------------------------------------|
+| **POLIBEE - Mobile & Web**     | Plataforma de conexão entre apicultores e agricultores para aluguel de colmeias | HTML, CSS, JavaScript, Kotlin, MongoDB |
+| **Colmeia Inteligente**        | Sistema de monitoramento em tempo real da saúde das abelhas               | Arduino, C++, Sensores (DHT11 e outros)|
+| **VersoVivo**                  | Site de eventos e batalhas de rap                                         | HTML, CSS, JavaScript, PHP, MySQL      |
+| **Dietrich**                   | E-commerce de produtos naturais                                           | HTML, CSS, JavaScript, PHP, MySQL      |
+| **GameOn**                     | Portal de notícias sobre jogos                                            | HTML, CSS, JavaScript, SQL             |
+| **Jovem Germânico**            | Portal com curiosidades sobre a cultura alemã                             | HTML, CSS, JavaScript                  |
+| **Watify**                     | Aplicativo interativo de consumo de água em tempo real                    | Figma, Canva                           |
+| **LevSong**                    | Aplicativo para streaming de louvores tranquilos                          | Kotlin, Android Studio, Figma          |
+| **Kito**                       | Aplicativo educativo de matemática com níveis progressivos                | Canva, Figma                           |
+| **AstroSPACE - Mobile & Web**  | Plataforma para ouvir música, acompanhar artistas e gerenciar playlists   | Canva, Figma                           |
+| **JavaCoffee**                 | Aplicativo para seleção de opções de cafés                                | Kotlin, Android Studio, Figma          |
+| **Currículo Online**           | Portfólio profissional hospedado no GitHub Pages                          | HTML, CSS, JavaScript                  |
 
 ---
 
-## Watify
+## Tecnologias que Domino Profundamente
 
-Aplicativo que mostra em tempo real o consumo de água.
+**Front-End**  
+HTML • CSS • JavaScript • Bootstrap • Design Responsivo  
 
-**Tecnologias**
+**Back-End**  
+PHP • MySQL • Python • Golang • Node.js  
 
-Figma • Canva
+**UX/UI Design**  
+Figma • Design Centrado no Usuário • Prototipagem  
 
----
+**Ferramentas & Metodologias**  
+Git • GitHub • VS Code • Trello • DB Designer • Gestão Ágil como Product Owner  
 
-## LevSong
-
-Aplicativo para reprodução de louvores.
-
-**Tecnologias**
-
-Kotlin • Android Studio • Figma
-
----
-
-## Kito
-
-Aplicativo para ensino de matemática.
-
-**Tecnologias**
-
-Canva • Figma
+**Outras Áreas de Expertise**  
+Automação • Produtos Digitais • Análise de Dados • Eletrônica e IoT  
 
 ---
 
-## AstroSPACE
-
-Aplicativo musical com playlists, artistas e lançamentos.
-
-**Tecnologias**
-
-Canva • Figma
+**Disponível para oportunidades em desenvolvimento full stack, análise de produtos digitais, projetos de IA e automação.**
 
 ---
-
-## JavaCoffee
-
-Aplicativo para descoberta de cafeterias.
-
-**Tecnologias**
-
-Kotlin • Android Studio • Figma
-
----
-
-## Currículo Online
-
-Currículo desenvolvido em HTML, CSS e JavaScript publicado no GitHub Pages.
-
----
-
-## Others
-
----
-
-# Tecnologias
-
-| Front-End | Back-End | Banco de Dados | Ferramentas |
-|-----------|-----------|----------------|-------------|
-| HTML | PHP | SQL | Git |
-| CSS | Python | MySQL | GitHub |
-| JavaScript | Others | JSON | VS Code |
-| Bootstrap | | | Figma |
-| Others | | | Trello |
-| | | | DB Designer |
-| | | | Others |
-
----
-
-# GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=flat&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vitoriadietrich&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-Feito por Vitória de Jesus Dietrich
-
-</div>
+*Vitória de Jesus Dietrich*  
+São Paulo, SP  
+Atualizado em Julho de 2026

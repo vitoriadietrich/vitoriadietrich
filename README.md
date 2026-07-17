@@ -359,10 +359,6 @@ Disponível no GitHub Pages
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-
-<br><br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4"/>
 
 </div>

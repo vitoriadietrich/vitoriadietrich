@@ -390,12 +390,10 @@ Disponível no GitHub Pages
 
 <div align="center">
 
-<div align="center">
-
-<h3>Obrigado pela visita.</h3>
+<h3>See you in the next commit.</h3>
 
 <sub>
-Sempre desenvolvendo, aprendendo e criando novas soluções.
+Building ideas into digital solutions.
 </sub>
 
 </div>

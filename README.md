@@ -358,12 +358,7 @@ Disponível no GitHub Pages
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=onedark&no-frame=true&row=1&column=7"/>
-</div>
 
 ### ATIVIDADE RECENTE
 

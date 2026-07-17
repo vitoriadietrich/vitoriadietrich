@@ -375,11 +375,6 @@ Cobra animada percorrendo o gráfico de contribuições:
 
 </div>
 
-<details>
-<summary><b>Como ativar a cobra animada (passo a passo)</b></summary>
-<br/>
-</details>
-
 <br/>
 
 <div align="center">

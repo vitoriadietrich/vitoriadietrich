@@ -13,148 +13,373 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/vitoriadietrich?label=Seguidores&style=social" />
-<img src="https://komarev.com/ghpvc/?username=vitoriadietrich&label=Visitas+ao+perfil&color=a855f7&style=flat" />
+<img src="https://img.shields.io/github/followers/vitoriadietrich?label=Seguidores&style=for-the-badge&color=9333ea&labelColor=1a0a2e"/>
+<img src="https://komarev.com/ghpvc/?username=vitoriadietrich&label=Visitas+ao+perfil&color=ec4899&style=for-the-badge"/>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,50:c026d3,100:ec4899&height=4" width="100%"/>
 
 </div>
 
 <br/>
 
-## Sobre mim
+<div align="center">
+
+### SOBRE MIM
+
+</div>
 
 > Transformo ideias em soluções digitais funcionais, bonitas e inteligentes.
-> — **Vitória Dietrich**
+> **— Vitória Dietrich**
 
 Sou **desenvolvedora full stack web**, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Inteligência Artificial**. Tenho experiência com desenvolvimento web, organização de projetos e produtos digitais — amo criar soluções que impactam pessoas e negócios.
 
-<table align="center">
+<div align="center">
+
+<img src="https://img.shields.io/badge/28-Reposit%C3%B3rios%20p%C3%BAblicos-140821?style=for-the-badge&labelColor=9333ea"/>
+<img src="https://img.shields.io/badge/5%2B-Linguagens%20ativas-140821?style=for-the-badge&labelColor=c026d3"/>
+<img src="https://img.shields.io/badge/12%2B-Projetos%20em%20destaque-140821?style=for-the-badge&labelColor=ec4899"/>
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### FORMAÇÃO ACADÊMICA
+
+</div>
+
+<table width="100%">
+<thead>
 <tr>
-<td align="center" width="150"><b>28</b><br/><sub>Repositórios públicos</sub></td>
-<td align="center" width="150"><b>5+</b><br/><sub>Linguagens ativas</sub></td>
-<td align="center" width="150"><b>12+</b><br/><sub>Projetos em destaque</sub></td>
+<th align="left">Curso</th>
+<th align="left">Instituição</th>
+<th align="center">Modalidade</th>
+</tr>
+</thead>
+<tr>
+<td><b>Análise e Desenvolvimento de Sistemas</b></td>
+<td>Faculdade Flamingo</td>
+<td align="center"><img src="https://img.shields.io/badge/Presencial-9333ea?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Inteligência Artificial</b></td>
+<td>Univesp</td>
+<td align="center"><img src="https://img.shields.io/badge/EAD-a855f7?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Curso Técnico em Informática</b></td>
+<td>Senac Lapa Tito</td>
+<td align="center"><img src="https://img.shields.io/badge/Presencial-c026d3?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Programação em Desenvolvimento de Sistemas</b></td>
+<td>Instituto PROA</td>
+<td align="center"><img src="https://img.shields.io/badge/Presencial-db2777?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Cursos extras de TI</b></td>
+<td>Diversos</td>
+<td align="center"><img src="https://img.shields.io/badge/EAD%20%2F%20Presencial-ec4899?style=flat-square"/></td>
 </tr>
 </table>
 
 <br/>
-
-## Formação acadêmica
-
-<table>
-<tr><th align="left">Curso</th><th align="left">Instituição</th><th align="left">Modalidade</th></tr>
-<tr><td>Análise e Desenvolvimento de Sistemas</td><td>Faculdade Flamingo</td><td>🖥️ Presencial</td></tr>
-<tr><td>Inteligência Artificial</td><td>Univesp</td><td>💻 EAD</td></tr>
-<tr><td>Curso Técnico em Informática</td><td>Senac Lapa Tito</td><td>🖥️ Presencial</td></tr>
-<tr><td>Programação em Desenvolvimento de Sistemas</td><td>Instituto PROA</td><td>🖥️ Presencial</td></tr>
-<tr><td>Cursos extras de TI</td><td>Diversos</td><td>💻 EAD / Presencial</td></tr>
-</table>
-
-> Obs.: troque os ícones de modalidade acima por texto puro (ex.: `Presencial` / `EAD`) se preferir manter o README 100% livre de emojis — deixei como tabela simples para facilitar a edição.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,50:c026d3,100:ec4899&height=4" width="100%"/>
 
 <br/>
 
-## Habilidades & tecnologias
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,kotlin,php,cpp,mysql,mongodb,bootstrap,arduino&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,canva&theme=dark" />
+### HABILIDADES & TECNOLOGIAS
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,kotlin,php,cpp,mysql,mongodb,bootstrap,arduino&theme=dark&perline=6"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,canva&theme=dark&perline=6"/>
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr><td width="420">
+<table width="100%">
+<tr><td width="50%">
 
 **Design responsivo**
-`██████████████████░░` 95%
+<br/>
+<img src="https://progress-bar.xyz/95?width=350&color=9333ea&title=95%25"/>
 
 **UX/UI Design**
-`██████████████████░░` 90%
+<br/>
+<img src="https://progress-bar.xyz/90?width=350&color=a855f7&title=90%25"/>
 
 **Análise de dados**
-`█████████████████░░░` 85%
+<br/>
+<img src="https://progress-bar.xyz/85?width=350&color=c026d3&title=85%25"/>
 
-</td><td width="420">
+</td><td width="50%">
 
 **Automação & eletrônica**
-`████████████████░░░░` 80%
+<br/>
+<img src="https://progress-bar.xyz/80?width=350&color=db2777&title=80%25"/>
 
 **Gestão de projetos (P.O.)**
-`██████████████████░░` 95%
+<br/>
+<img src="https://progress-bar.xyz/95?width=350&color=ec4899&title=95%25"/>
 
 **Produtos digitais**
-`██████████████████░░` 90%
+<br/>
+<img src="https://progress-bar.xyz/90?width=350&color=be185d&title=90%25"/>
 
 </td></tr>
 </table>
 
 <br/>
-
-## Tecnologias que domino profundamente
-
-| Área | Stack |
-|---|---|
-| **Front-End** | HTML, CSS, JavaScript, Bootstrap e outros |
-| **Back-End** | PHP, MySQL, Python, Golang e outros |
-| **Ferramentas** | Git, GitHub, VS Code, Trello, DB Designer e outros |
-| **Outras áreas** | Automação, Produtos Digitais, Análise de Dados, P.O. e outros |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4" width="100%"/>
 
 <br/>
 
-## Projetos em destaque
+<div align="center">
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **Polibee** *(Mobile & Web)* | Conexão entre apicultores e agricultores para aluguel de colmeias | `HTML` `CSS` `JS` `Kotlin` `MongoDB` |
-| **Colmeia Inteligente** | Monitoramento em tempo real da saúde das abelhas com sensores | `Arduino` `C++` `DHT11` `Sensores` |
-| **Verso Vivo** | Site de eventos e batalhas de rap | `HTML` `CSS` `JS` `PHP` `MySQL` |
-| **Dietrich** | E-commerce de produtos naturais | `HTML` `CSS` `JS` `PHP` `MySQL` |
-| **GameOn** | Portal de notícias de jogos | `HTML` `CSS` `JS` `SQL` |
-| **Jovem Germânico** | Curiosidades sobre a cultura alemã | `HTML` `CSS` `JS` |
-| **Watify** | App interativo que mostra em tempo real o quanto você está gastando de água | `Figma` `Canva` |
-| **LevSong** | Aplicativo para escutar louvores tranquilos | `Kotlin` `Android` `Figma` |
-| **Kito** | Ensino de matemática com níveis básico, intermediário e avançado | `Canva` `Figma` |
-| **AstroSPACE** *(Mobile & Web)* | Música e artistas, com playlists, lançamentos e novidades do cenário musical | `Canva` `Figma` |
-| **Java Coffee** | Aplicativo que mostra opções de cafés para escolher | `Kotlin` `Android` `Figma` |
-| **Currículo Online** | Disponível no GitHub Pages | `HTML` `CSS` `JS` |
+### STACK POR ÁREA
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top" align="center"><b>FRONT-END</b><br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</td>
+<td width="25%" valign="top" align="center"><b>BACK-END</b><br/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+</td>
+<td width="25%" valign="top" align="center"><b>FERRAMENTAS</b><br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
+</td>
+<td width="25%" valign="top" align="center"><b>OUTRAS ÁREAS</b><br/><br/>
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-9333ea?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Produtos%20Digitais-a855f7?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-c026d3?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Product%20Owner-ec4899?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,50:c026d3,100:ec4899&height=4" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### PROJETOS EM DESTAQUE
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Polibee** <sub>Mobile & Web</sub>
+<br/><br/>
+Conexão entre apicultores e agricultores para aluguel de colmeias
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Colmeia Inteligente**
+<br/><br/>
+Monitoramento em tempo real da saúde das abelhas com sensores
+<br/><br/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DHT11-9333ea?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sensores-a855f7?style=flat-square"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Verso Vivo**
+<br/><br/>
+Site de eventos e batalhas de rap
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Dietrich**
+<br/><br/>
+E-commerce de produtos naturais
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**GameOn**
+<br/><br/>
+Portal de notícias de jogos
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Jovem Germânico**
+<br/><br/>
+Curiosidades sobre a cultura alemã
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Watify**
+<br/><br/>
+App interativo que mostra em tempo real o quanto você está gastando de água
+<br/><br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**LevSong**
+<br/><br/>
+Aplicativo para escutar louvores tranquilos
+<br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Kito**
+<br/><br/>
+Ensino de matemática com níveis básico, intermediário e avançado
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**AstroSPACE** <sub>Mobile & Web</sub>
+<br/><br/>
+Música e artistas, com playlists, lançamentos e novidades do cenário musical
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Java Coffee**
+<br/><br/>
+Aplicativo que mostra opções de cafés para escolher
+<br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**Currículo Online**
+<br/><br/>
+Disponível no GitHub Pages
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center"><sub>...e muitos outros projetos</sub></div>
 
 <br/>
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&hide_border=true&theme=radical&bg_color=0D0812&title_color=C084FC&icon_color=EC4899&text_color=F3EDFB&ring_color=9333EA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&hide_border=true&theme=radical&bg_color=0D0812&title_color=C084FC&text_color=F3EDFB" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,50:c026d3,100:ec4899&height=4" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriadietrich&hide_border=true&theme=radical&background=0D0812&ring=9333EA&fire=EC4899&currStreakLabel=C084FC" />
+<div align="center">
+
+### ESTATÍSTICAS DO GITHUB
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&hide_border=true&theme=radical&bg_color=0D0812&title_color=C084FC&icon_color=EC4899&text_color=F3EDFB&ring_color=9333EA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&hide_border=true&theme=radical&bg_color=0D0812&title_color=C084FC&text_color=F3EDFB"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriadietrich&hide_border=true&theme=radical&background=0D0812&ring=9333EA&fire=EC4899&currStreakLabel=C084FC"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4" width="100%"/>
 
-## Atividade recente (grafo animado)
-
-Para exibir uma cobra animada percorrendo seu gráfico de contribuições (como abaixo), é preciso ativar uma GitHub Action única vez no seu repositório `vitoriadietrich/vitoriadietrich` — deixei o passo a passo logo depois da imagem.
+<br/>
 
 <div align="center">
+
+### ATIVIDADE RECENTE
+
+Cobra animada percorrendo o gráfico de contribuições:
+
 <img src="https://raw.githubusercontent.com/vitoriadietrich/vitoriadietrich/output/github-contribution-grid-snake.svg" width="100%"/>
+
 </div>
 
 <details>
 <summary><b>Como ativar a cobra animada (passo a passo)</b></summary>
 <br/>
 
-1. No seu repositório de perfil, crie o arquivo `.github/workflows/snake.yml`.
+1. No repositório `vitoriadietrich/vitoriadietrich`, crie o arquivo `.github/workflows/snake.yml`.
 2. Cole o conteúdo abaixo:
 
 ```yaml

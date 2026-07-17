@@ -348,61 +348,71 @@ Disponível no GitHub Pages
 
 <div align="center">
 
-### ESTATÍSTICAS DO GITHUB
+<!-- Linha -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,40:c026d3,100:ec4899&height=3" width="100%"/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitoriadietrich&show_icons=true&theme=radical&hide_border=true"/>
+# GITHUB ANALYTICS
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitoriadietrich&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D0812&title_color=C084FC&icon_color=EC4899&text_color=F3EDFB"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=vitoriadietrich&theme=radical&hide_border=true&background=0D0812&ring=9333EA&fire=EC4899&currStreakLabel=C084FC"/>
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0D0812&title_color=C084FC&text_color=F3EDFB"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=vitoriadietrich&theme=radical&hide_border=true&background=0D0812&ring=C084FC&fire=EC4899&currStreakLabel=C084FC"/>
 
 </div>
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,50:c026d3,100:ec4899&height=4" width="100%"/>
+<!-- Linha -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=3" width="100%"/>
 
 <div align="center">
 
-<h2>ATIVIDADE E CONTRIBUIÇÕES</h2>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriadietrich&theme=github-dark&bg_color=0D0812&hide_border=true&line=C084FC&color=EC4899&point=FFFFFF"/>
+
+
+
+
+
+
+
+# CONTRIBUTION ACTIVITY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriadietrich&bg_color=0D0812&color=C084FC&line=EC4899&point=FFFFFF&hide_border=true&radius=8"/>
 
 <br><br>
 
 <img width="100%" src="https://raw.githubusercontent.com/vitoriadietrich/vitoriadietrich/output/github-contribution-grid-snake-dark.svg"/>
 
-<br><br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Solutions;Back-end+Development;Artificial+Intelligence;Data+Analysis;Always+Learning"/>
+<br>
 
-<br><br>
+<!-- Linha -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,40:c026d3,100:ec4899&height=3" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:c026d3,100:ec4899&height=160&section=footer&animation=fadeIn"/>
+<div align="center">
 
-<h3>Vitória de Jesus Dietrich</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPMENT;BACK-END+ENGINEERING;ARTIFICIAL+INTELLIGENCE;DIGITAL+PRODUCTS;DATA+ANALYSIS;BUILDING+TECHNOLOGY+WITH+PURPOSE"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:9333ea,50:c026d3,100:ec4899&section=footer&animation=twinkling"/>
+
+<h2>Vitória de Jesus Dietrich</h2>
 
 <sub>
-Full Stack Developer • Back-end • Artificial Intelligence • Digital Products
+
+FULL STACK WEB • BACK-END • ARTIFICIAL INTELLIGENCE • DIGITAL PRODUCTS • DATA
+
 </sub>
 
 </div>

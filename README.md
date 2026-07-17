@@ -347,25 +347,25 @@ Disponível no GitHub Pages
 
 ### ESTATÍSTICAS DO GITHUB
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&hide_border=true&theme=radical&bg_color=0D0812&title_color=C084FC&icon_color=EC4899&text_color=F3EDFB&ring_color=9333EA"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&hide_border=true&theme=radical&bg_color=0D0812&title_color=C084FC&text_color=F3EDFB"/>
+<div align="center">
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoriadietrich&show_icons=true&theme=radical&hide_border=true&bg_color=0D0812&title_color=C084FC&icon_color=EC4899&text_color=F3EDFB"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriadietrich&hide_border=true&theme=radical&background=0D0812&ring=9333EA&fire=EC4899&currStreakLabel=C084FC"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&theme=radical&hide_border=true&bg_color=0D0812&title_color=C084FC&text_color=F3EDFB"/>
 
-<br/><br/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=vitoriadietrich&theme=radical&hide_border=true&background=0D0812&ring=9333EA&fire=EC4899&currStreakLabel=C084FC"/>
+
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4"/>
+
 </div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4" width="100%"/>
-
-<br/>
-
-<div align="center">
 
 ### ATIVIDADE RECENTE
 

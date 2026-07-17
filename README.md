@@ -367,20 +367,42 @@ Disponível no GitHub Pages
 </div>
 
 
-### ATIVIDADE RECENTE
 
-Cobra animada percorrendo o gráfico de contribuições:
 
-<img src="https://raw.githubusercontent.com/vitoriadietrich/vitoriadietrich/output/github-contribution-grid-snake.svg" width="100%"/>
 
-</div>
+
+
+
+
+
+
+
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,50:c026d3,100:ec4899&height=4" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:c026d3,100:9333ea&height=120&section=footer" width="100%"/>
+<h2>ATIVIDADE E CONTRIBUIÇÕES</h2>
 
-**Vitória de Jesus Dietrich** — *Desenvolvendo hoje o amanhã*
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriadietrich&theme=github-dark&bg_color=0D0812&hide_border=true&line=C084FC&color=EC4899&point=FFFFFF"/>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/vitoriadietrich/vitoriadietrich/output/github-contribution-grid-snake-dark.svg"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Solutions;Back-end+Development;Artificial+Intelligence;Data+Analysis;Always+Learning"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:c026d3,100:ec4899&height=160&section=footer&animation=fadeIn"/>
+
+<h3>Vitória de Jesus Dietrich</h3>
+
+<sub>
+Full Stack Developer • Back-end • Artificial Intelligence • Digital Products
+</sub>
 
 </div>

@@ -373,9 +373,6 @@ Disponível no GitHub Pages
 <div align="center">
 
 ## ATIVIDADE E CONTRIBUIÇÕES
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriadietrich&theme=github-dark&bg_color=0D0812&hide_border=true&line=C084FC&color=EC4899&point=FFFFFF"/>
-
 <br><br>
 
 <img width="100%" src="https://raw.githubusercontent.com/vitoriadietrich/vitoriadietrich/output/github-contribution-grid-snake-dark.svg"/>

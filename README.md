@@ -378,41 +378,6 @@ Cobra animada percorrendo o gráfico de contribuições:
 <details>
 <summary><b>Como ativar a cobra animada (passo a passo)</b></summary>
 <br/>
-
-1. No repositório `vitoriadietrich/vitoriadietrich`, crie o arquivo `.github/workflows/snake.yml`.
-2. Cole o conteúdo abaixo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vitoriadietrich
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Faça commit — depois de rodar uma vez, a imagem acima passa a atualizar sozinha.
-
 </details>
 
 <br/>

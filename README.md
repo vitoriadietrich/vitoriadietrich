@@ -348,8 +348,6 @@ Disponível no GitHub Pages
 
 <div align="center">
 
-
-
 <div align="center">
 
 ### ESTATÍSTICAS DO GITHUB

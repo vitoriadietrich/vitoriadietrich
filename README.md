@@ -32,7 +32,7 @@
 > Transformo ideias em soluções digitais funcionais, bonitas e inteligentes.
 > **— Vitória Dietrich**
 
-Sou **desenvolvedora full stack web**, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Inteligência Artificial**. Tenho experiência com desenvolvimento web, organização de projetos e produtos digitais — amo criar soluções que impactam pessoas e negócios.
+Sou **desenvolvedora full stack web**, analista de produtos digitais e dados, e técnica em informática apaixonada por tecnologia e inovação. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Inteligência Artificial**. Tenho experiência com desenvolvimento web, ui/ux designer (web/mobile), organização de projetos e produtos digitais e amo criar soluções que impactam pessoas e negócios.
 
 <div align="center">
 

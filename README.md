@@ -370,8 +370,6 @@ Disponível no GitHub Pages
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,50:c026d3,100:ec4899&height=4" width="100%"/>
-
 <div align="center">
 
 ## ATIVIDADE E CONTRIBUIÇÕES

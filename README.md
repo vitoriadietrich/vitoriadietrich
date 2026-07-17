@@ -390,22 +390,12 @@ Disponível no GitHub Pages
 
 <div align="center">
 
-<h2>Vitória de Jesus Dietrich</h2>
+<div align="center">
 
-<p>
-Software Engineer • Full Stack Web Developer • Artificial Intelligence
-</p>
-
-<p>
-Back-end │ Front-end │ Databases │ Digital Products │ UI/UX Design │ Data Analysis │ Automation │ IoT
-</p>
-
-<br>
+<h3>Obrigado pela visita.</h3>
 
 <sub>
-
-Building technology with purpose, innovation and continuous evolution.
-
+Sempre desenvolvendo, aprendendo e criando novas soluções.
 </sub>
 
 </div>

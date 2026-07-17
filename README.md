@@ -388,30 +388,24 @@ Disponível no GitHub Pages
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:c026d3,100:ec4899&height=160&section=footer&animation=fadeIn"/>
 
-<h3>Vitória de Jesus Dietrich</h3>
+<div align="center">
 
-<h2 align="center">Vitória de Jesus Dietrich</h2>
+<h2>Vitória de Jesus Dietrich</h2>
 
-<p align="center">
-
-<strong>
-
-Full Stack Web Developer • Software Engineering • Artificial Intelligence
-
-</strong>
-
+<p>
+Software Engineer • Full Stack Web Developer • Artificial Intelligence
 </p>
 
-<p align="center">
-
-Back-end • Front-end • Databases • Digital Products • UI/UX Design • Data Analysis • Automation • IoT
-
+<p>
+Back-end │ Front-end │ Databases │ Digital Products │ UI/UX Design │ Data Analysis │ Automation │ IoT
 </p>
 
-<p align="center">
+<br>
 
-<i>Building technology with purpose, innovation and continuous evolution.</i>
+<sub>
 
-</p>
+Building technology with purpose, innovation and continuous evolution.
+
+</sub>
 
 </div>

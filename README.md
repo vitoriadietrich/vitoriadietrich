@@ -348,9 +348,9 @@ Disponível no GitHub Pages
 
 <div align="center">
 
-<!-- Linha -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333ea,40:c026d3,100:ec4899&height=3" width="100%"/>
 
+
+<div align="center">
 
 ### ESTATÍSTICAS DO GITHUB
 

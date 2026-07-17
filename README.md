@@ -352,12 +352,20 @@ Disponível no GitHub Pages
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitoriadietrich&show_icons=true&theme=radical&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitoriadietrich&layout=compact&theme=radical&hide_border=true"/>
+
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=vitoriadietrich&theme=radical&hide_border=true&background=0D0812&ring=9333EA&fire=EC4899&currStreakLabel=C084FC"/>
 
 <br><br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=vitoriadietrich&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:c026d3,100:9333ea&height=4"/>
+
+</div>
 
 
 ### ATIVIDADE RECENTE
